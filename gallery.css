@@ -72,3 +72,6 @@ input[type="button"]
     border-radius: 10px;
     background-color:#f0dfbc;
 }
+.logo p img{
+    margin-left: 500px;
+}
