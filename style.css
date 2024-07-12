@@ -119,6 +119,9 @@ input[type="email"]
     border-bottom: 1px solid black;
     outline: none;
 }
+.logo p img{
+    margin-left: 500px;
+}
 
 input[type="button"]
 {
